@@ -9,4 +9,5 @@ practical 1.7![image](https://user-images.githubusercontent.com/112079016/187258
 practical 1.8![image](https://user-images.githubusercontent.com/112079016/187259007-ff95891f-ad43-4b0d-b74f-24d14483814c.png)
 practical 1.9![image](https://user-images.githubusercontent.com/112079016/187259493-0e8f701d-75b2-4541-b5e5-6d65a8885248.png)
 practical 1.10![image](https://user-images.githubusercontent.com/112079016/187259738-13b83dc6-8491-406c-89d5-092f6fb7a886.png)
+practical 1.11![image](https://user-images.githubusercontent.com/112079016/187264523-a8fc017b-dd86-484f-ad2d-ae288f1410b2.png)
 
